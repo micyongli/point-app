@@ -1,3 +1,9 @@
+/*
+ * @Author: micyongli@163.com 
+ * @Date: 2022-04-29 15:59:14 
+ * @Last Modified by:   micyongli@163.com 
+ * @Last Modified time: 2022-04-29 15:59:14 
+ */
 export const MT = {
     "MT_ORG_CHRT": 1,
     "MT_SCRN_DGM": 2,

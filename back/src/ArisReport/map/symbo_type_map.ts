@@ -1,3 +1,9 @@
+/*
+ * @Author: micyongli@163.com 
+ * @Date: 2022-04-29 15:59:28 
+ * @Last Modified by:   micyongli@163.com 
+ * @Last Modified time: 2022-04-29 15:59:28 
+ */
 export const ST = {
     "ST_EV": 1,
     "ST_PERS_INT": 2,

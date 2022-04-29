@@ -1,4 +1,10 @@
-import { type } from "os"
+/*
+ * @Author: micyongli@163.com 
+ * @Date: 2022-04-29 15:58:00 
+ * @Last Modified by: micyongli@163.com
+ * @Last Modified time: 2022-04-29 15:58:35
+ */
+
 import { Entity, PrimaryGeneratedColumn, Column, PrimaryColumn, Index } from "typeorm"
 
 @Entity({ name: 'a_model' })

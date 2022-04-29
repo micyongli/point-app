@@ -1,3 +1,9 @@
+/*
+ * @Author: micyongli@163.com 
+ * @Date: 2022-04-29 15:59:19 
+ * @Last Modified by:   micyongli@163.com 
+ * @Last Modified time: 2022-04-29 15:59:19 
+ */
 export const OT = {
     "OT_UML2_TEMPLATE_PARAMETER_SUBSTITUTION": 10185,
     "OT_UML2_TEMPLATE_SIGNATURE": 10184,

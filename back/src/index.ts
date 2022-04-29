@@ -1,7 +1,12 @@
+/*
+ * @Author: micyongli@163.com 
+ * @Date: 2022-04-29 16:01:37 
+ * @Last Modified by:   micyongli@163.com 
+ * @Last Modified time: 2022-04-29 16:01:37 
+ */
 import { AppDataSource, entityManager } from "./data-source";
 import { opendir, open, readFile } from 'fs/promises';
 import { ASymbol } from "./entity/ASymbol";
-import path = require("path");
 import { readFileSync } from "fs";
 import { ST } from './ArisReport/map/symbo_type_map';
 

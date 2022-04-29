@@ -1,3 +1,9 @@
+/*
+ * @Author: micyongli@163.com 
+ * @Date: 2022-04-29 15:59:08 
+ * @Last Modified by:   micyongli@163.com 
+ * @Last Modified time: 2022-04-29 15:59:08 
+ */
 export const CT={
     "CT_ARIS_DUMMY": 0,
     "CT_IS_SUPERIOR_1": 3,
