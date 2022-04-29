@@ -7,10 +7,10 @@ export class AConnect {
     @PrimaryColumn({ length: 36, name: 'db_id' })
     dbId: string
 
-    @Column({ length: 36, })
+    @Column({ length: 36 })
     sourceId: string
 
-    @Column({ length: 36, })
+    @Column({ length: 36 })
     targetId: string
 
     @Column("int")

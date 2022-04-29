@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" amf:innerBoundingBox="124,12,314,129" amf:referencePoints="0:0,0:1 1:450,0:1 2:450,150:1 3:0,150:1 " version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUBAMAAAB/pwA+AAAAKlBMVEX///////////////////////////////////////////////////////9q+00tAAAADXRSTlMA7fFtfQR3CHYHX/bwZOL77gAAADhJREFUeF5jIAh470LBBTDzEsMFXgZUpqKgoCxUAQMUUJXJgGAyw53D4MsAA2F3YSz2Xjhz1p67AGM4KCGD6M1IAAAAAElFTkSuQmCC" />
+</symbol>
+</defs>
+<svg:rect amf:fill-replaceable="false" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="true" fill="#34bcee" height="150" stroke="none" stroke-width="0" width="450" x="0" y="0"/>
+<svg:polygon amf:fill-replaceable="false" amf:fill-symboleffectAllowed="false" amf:referencePoints="0:0,0:1 1:450,0:1 2:450,150:1 3:0,150:1 4:0,0:1 " amf:stroke-replaceable="true" fill="#c0c0c0" points="115,10 450,10 450,150 115,150 115,10 " stroke="none" stroke-width="0"/>
+<svg:polygon amf:fill-replaceable="false" amf:fill-symboleffectAllowed="true" amf:referencePoints="0:0,0:1 1:450,0:1 2:450,150:1 3:0,150:1 4:0,0:1 " amf:stroke-replaceable="true" fill="#ffffff" points="115,10 447,10 447,147 115,147 115,10 " stroke="none" stroke-width="0"/>
+<svg:ellipse amf:fixedCorner="point(0,75)" amf:stroke-replaceable="true" cx="57" cy="75" fill="#ffffff" rx="30" ry="30" stroke="none" stroke-width="0"/>
+<svg:polyline amf:fill-replaceable="false" amf:fill-symboleffectAllowed="false" amf:referencePoints="0:450,0:1 1:450,150:1 2:0,150:1 " amf:stroke-replaceable="false" fill="none" stroke="#c0c0c0" points="449,11 449,149 116,149 " stroke-width="1"/>
+<svg:rect amf:fill-replaceable="false" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="true" fill="none" height="150" stroke="#c0c0c0" stroke-width="0" width="450" x="0" y="0"/>
+
+<miniAMF>
+<svg:rect amf:fill-replaceable="true" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="true" fill="#34bcee" height="68" width="68" stroke="none" stroke-width="5" x="0" y="0"/>
+<use xlink:href="#image1" amf:stroke-replaceable="true" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+
+<amf:outline amf:points="0,0 0,150 450,150 450,0 0,0"/>
+<amf:editorProperties amf:grid="off" amf:zoom="1000"/>
+</svg>

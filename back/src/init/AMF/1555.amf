@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAe1BMVEVyqxb///9yqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxY2rd8xAAAAKHRSTlMAAPsT127tBbpKKZIs77eWBLYokRVISXFy1dkG2mxNT+wRvJD6J7MUwW9qZgAAAHJJREFUeF5ljdcOAiEABFfKAXq12Hvf//9CQ+Ai6LxsZl8GEeeQYZQySNGkTl0WZCGTY0FrOXx9LkRZCtFjomYDNOwmX7F6A2PFZfBWce13w20bkzvjd3/gMSZPoXXm5RqSiNx490kmPJ6omfHC7Ie/4wM+FAq6qrQyaQAAAABJRU5ErkJggg==" />
+</symbol>
+<symbol id="image2">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAA6lBMVEVyqxb///9yqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZqcgshAAAATXRSTlMAAPgCAUn7vNEz/uLYpXf9CO9gE44EUejbWvcH36EJxB4wET06IUO5sHLMRVUpJ8+Zll30GRfz7eCKf3StDQwS7mpojNnHH1IgpDK7gY08ApwAAADDSURBVHhedZDVcsJQGAZ/AgRrG6AN6u5Sd3fZ93+dzhlI5oQc9ur7Zu9WNAZxMRKbJKNGUYa8SVRrkGkYxBjgICw6lwC5w5C4htIeHG2LVgVmBbD6W6IO7zFpwn5QtB3oivQgnQqIIYzUuIOELqZgz9VY2KCFiS5htZ7HoIU5gdOz9Ty/0MJkr+DPOzeQyW72LRTvPfFQ9MM8PsGz+Lz4YV7hzRUf1wvzYcGnaKgwXyLyTRgV5schjArzi5GERHawU/wDw7oynJnaafEAAAAASUVORK5CYII=" />
+</symbol>
+<symbol id="image3">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAA8FBMVEVyqxb///9yqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZUqQaDAAAAT3RSTlMAAAQFBwgRExQVFhcYKSssLjAxMkhKTE1PUFFSU1Rub3Fyc3R1dnd4eZKUlpeZmpucnaKjrbi5ury9vr/AwcLX2Nna293e7O7v8PHy+/z9ijf+eAAAAT1JREFUeF7l0llTwjAUhuFPKSq4gTuu+74giqK4oKKiKH7//984c4qcIU6a02ufq04mTZM3hcfMClIZbLxmkcYquY8Uht/IzzHYHZBkBWbjXyT5PQ2rS4p7GM2yy5g202CXMe0ae/ZMSVvsaVvSHlLxDEETkpQPNUraKYRcMb6DyfjFOwTMUVSAI4rlQNLH3mFH3uO0EZKs/+bU51146apZ+dpTKK277/lgWrdMclqdUPQt4JqnKPu26Mo8u4dELjHtBsWOM+amdVd70dUCaY8pFgPn0qQdmV8PlFPXMr9T9NzNLRwLFKfe219Cn6ibNG+MgU2KLWvu3IeMNaOkCx2FOqEoWX+ZQpz0Bh41t2A9HihAJaYtUVwMeZ33pY2atNC027TQtPk2LTRtmWaSttihmaSttlKpYiClf/nCD8b50t3phSrJAAAAAElFTkSuQmCC" />
+</symbol>
+</defs>
+
+<svg:ellipse amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" cx="61" cy="61" fill="#ffffff" rx="61" ry="61" stroke="#72ab16" stroke-width="6"/>
+
+<use xlink:href="#image1" amf:fixedCorner="point(61,61)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#72ab16"  fill="none" x="35" y="35" zoomMax="100"/>
+<use xlink:href="#image2" amf:fixedCorner="point(61,61)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#72ab16" fill="none" x="35" y="35" zoomMin="101" zoomMax="160"/>
+<use xlink:href="#image3" amf:fixedCorner="point(61,61)" amf:fill-symboleffectAllowed="false" amf:stroke-color-replaceable="true" stroke="#72ab16" amf:stroke-replaceable="false" fill="none" x="35" y="35" zoomMin="161" />
+
+<miniAMF fill="none">
+	<use xlink:href="#image1" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#72ab16" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+
+<amf:editorProperties amf:grid="off" amf:zoom="1000"/>
+</svg>

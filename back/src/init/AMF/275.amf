@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUAQMAAAC3R49OAAAABlBMVEX///////9VfPVsAAAAAXRSTlMAQObYZgAAABtJREFUeF5jwAkEgNgAiAuA+AMUF0DFBHDqAgCCUANBY25TIAAAAABJRU5ErkJggg==" />
+</symbol>
+</defs>
+<svg:polygon amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="true" fill="#ffffff" points="0,35 50,0 50,70 0,35 " stroke="#5b9f42" stroke-width="6"/>
+
+<miniAMF fill="#5b9f42">
+<use xlink:href="#image1" amf:stroke-replaceable="true" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+
+<amf:outline amf:points="50,0 0,35 50,70 50,0 "/>
+<amf:editorProperties amf:grid="off" amf:zoom="1000"/>
+</svg>

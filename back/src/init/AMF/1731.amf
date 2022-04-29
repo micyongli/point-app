@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAulBMVEX////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v5VRsBDAAAAPXRSTlMAABLuAu28bBemA/RXEaXzVmvAqngEE1iIbey4qfD1q/GFVWq5GItZvRbeGQWQlJaOaeLjDtDm0RAxqCc0soPQ3gAAAJtJREFUeF69zlcSgkAYA2D3X5aOgIBg7733mvtfS0cGXTiAefwmmUnpv2HMa9TF0GZpUlR6ABdAokjYR7s20jULtoQqNKdskI+K+UPOKQCaxFvVHHaAgERXwik0es93ubkHy9f1gYtYvpQAQgBj+RJjscq5OnmD6URfZArRpzabLzLMslyt3c22gFG4xyEsIDuezpdrEW/3h/F8AYs+DhogDBEUAAAAAElFTkSuQmCC" />
+</symbol>
+</defs>
+
+<svg:ellipse amf:fill-replaceable="true" amf:stroke-replaceable="true" cx="22" cy="22" fill="#ffffff" rx="22" ry="22" stroke="#cacaca" stroke-width="1"/>
+<svg:path amf:highLevelArcAngleExtend="-181" amf:highLevelArcCx="22" amf:highLevelArcCy="22" amf:highLevelArcHeight="43" amf:highLevelArcStartAngle="-47" amf:highLevelArcType="open" amf:highLevelArcWidth="43" amf:highLevelShape="arc" amf:stroke-replaceable="true" d="M37.72410458481217,7.337035258656282 A21,21 0 1,0 6.534194292719002,36.93515496486844 " fill="none" stroke="#000000" stroke-width="1"/>
+<amf:outline amf:points="22,0 13,1 6,6 1,13 0,22 1,30 6,37 13,42 22,44 30,42 37,37 42,30 44,22 42,13 37,6 30,1 22,0 "/>
+
+<miniAMF fill="#aaaaaa">
+<use xlink:href="#image1" amf:stroke-replaceable="true" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+<amf:editorProperties amf:grid="off" amf:zoom="1000"/>
+</svg>

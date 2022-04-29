@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" amf:innerBoundingBox="7,72,158,118" version="1.1">
+
+<defs>
+<symbol id="image1">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAQlBMVEVeXl7///9eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl7X9s/MAAAAFXRSTlMAAMgV/E4K6iTb9TfwlrEDLWni3m0yRaXzAAAAUUlEQVR4XoXPWQqAMAwE0KR1bV2Xuf9VhUSFjqDzE3iQTVQ8qxd9oKoJkDIB2o4AfTTAnYDQFBA3TLOBXFkGjC8oWnZroaG09vuwlH+eO9z1BFTCBkUBgxz4AAAAAElFTkSuQmCC" />
+</symbol>
+<symbol id="image2">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAASFBMVEVeXl7///9eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl7D2gWHAAAAF3RSTlMAAAEDChUkN05pbW+HlZamqbHI2+r1/IMpyXwAAABtSURBVHheldLZCoAgFATQa2lme5rN//9pCIUVDuA8CQe8i4qSHJeP6gNnTwDREsDREUAwBOA1AeztDfhnLsIEwJWg2YCzf0Be0R6ItgBiQhqHAruqUHxNxUm7IxlwoSupW2IwdQ8VbeVnGCTDBTBrEFg4ySq/AAAAAElFTkSuQmCC" />
+</symbol>
+<symbol id="image3">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAWlBMVEVeXl7///9eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl6+LqODAAAAHXRSTlMAAAEDBgoPFSQ3Tmltbm+HlJWWpLG9yNTY2+r1/L8RtQIAAADBSURBVHhetdbJDoMwDABRp1sIdKVrSPz/v9lDZVWqQPUc4vuTgMmChBBkbgaZmRDCIqg9BFoSBDp1EGiOEOhjC4He1hDomQIdKKg9BFoSA5YDAM2RAMtBgOX4Av07Fzc4WQ4vWF0thxPI5m45nEB2L8vhBNJNluMHyNKkYjmcQPpqOZxABv3MiAF+JPrS9LM6wz0tHF0adPHB5X2EG2jEW7TtIZBj24OspMaH8UEYGPGV1fZSzLHtxV5S45+TvcyDN5zVUN2ZR8h+AAAAAElFTkSuQmCC" />
+</symbol>
+</defs>
+
+<svg:polygon amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:referencePoints="3:172,0:1 4:172,0:1 " amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="#ffffff" points="0,0 0,226 172,226 172,34 138,0 0,0 " stroke="#5e5e5e" stroke-linecap="round" stroke-width="6" />
+
+<svg:polyline amf:fixedCorner="point(75,200)" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="none" points="75,194 75,225" stroke="#5e5e5e" stroke-width="6"/>
+<svg:polyline amf:fixedCorner="point(75,200)" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="none" points="89,194 89,225" stroke="#5e5e5e" stroke-width="6"/>
+<svg:polyline amf:fixedCorner="point(75,200)" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="none" points="101,194 101,225" stroke="#5e5e5e" stroke-width="6"/>
+
+<svg:polyline amf:fill-replaceable="false" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="none" points="134,3 134,38 169,38" amf:referencePoints="0:172,0:1 1:172,0:1 2:172,0:1 " stroke="#5e5e5e" stroke-linecap="round" stroke-width="6"/>
+
+<use xlink:href="#image1" amf:fixedCorner="point(0,0)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#5e5e5e" fill="none" x="10" y="10" zoomMax="100"/>
+<use xlink:href="#image2" amf:fixedCorner="point(0,0)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#5e5e5e" fill="none" x="10" y="10" zoomMin="101" zoomMax="160"/>
+<use xlink:href="#image3" amf:fixedCorner="point(0,0)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#5e5e5e" fill="none" x="10" y="10" zoomMin="161" />
+
+<miniAMF fill="none">
+	<use xlink:href="#image1" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#5e5e5e" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+
+<amf:editorProperties amf:grid="off" amf:zoom="1000"/>
+</svg>

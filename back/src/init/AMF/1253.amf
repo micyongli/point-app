@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABV0lEQVR42q2UMUsDQRCFc2cMahRDIPoDVFSwEMQIgo1gY+EPsLDQxsre36Cdf8BWKzuxE0FIo2U6tRWC8dAmoJfxjXkLx7p7OU8Hvix77L59s7OTQEQK/xkhxxK4BC0gf+AqoMMaeAB74IaHdEmYODgtVsFpQQXBpPSiwrmhbM3TGFMB++QhjtvgHjyCa7CWwWFvr+VwFKzLz4jAdB+HNZdDnR84Th8Hu7+psokqmPOsXcojWASDnrWlPIJt8OpZ+9xHq2McacQcp0DDk94tKHucDoDlZJWroAMarHJsVbkF6qAp6RGZlAOmv0K355aDI7AI5h3uutz/qW/RCL6DE7DDnpywNs2AJthn6uaulQg8gTdt2yDxb7PBXt4Cww4nL3R+Bu54l2HiDuNvcb7wC8keH+BYm8LVMfpzKPli0yUYZu2ArJ2jgrM5BRdcH4sseTuH4Ijr4xcgGKEuk+fJ6AAAAABJRU5ErkJggg==" />
+</symbol>
+</defs>
+<svg:rect amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="true" fill="#cccccc" height="200" stroke="#c0c0c0" stroke-width="0" width="250" x="0" y="0"/>
+<svg:rect amf:fill-replaceable="false" amf:fill-symboleffectAllowed="false" amf:fixedCorner="point(125,100)" amf:stroke-replaceable="false" fill="#ffffff" height="50" stroke="#cccccc" stroke-width="5" width="150" x="65" y="60"/>
+<svg:rect amf:fill-replaceable="false" amf:fill-symboleffectAllowed="false" amf:fixedCorner="point(125,100)" amf:stroke-replaceable="false" fill="#ffffff" height="50" stroke="#cccccc" stroke-width="5" width="150" x="50" y="75"/>
+<svg:rect amf:fill-replaceable="false" amf:fill-symboleffectAllowed="false" amf:fixedCorner="point(125,100)" amf:stroke-replaceable="false" fill="#ffffff" height="50" stroke="#cccccc" stroke-width="5" width="150" x="35" y="90"/>
+<miniAMF>
+<use xlink:href="#image1" amf:stroke-replaceable="true" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+
+<amf:outline amf:points="0,0 0,200 250,200 250,0 0,0"/>
+<amf:editorProperties amf:grid="off" amf:zoom="774"/>
+</svg>

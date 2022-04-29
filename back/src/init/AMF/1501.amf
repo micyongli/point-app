@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" amf:innerBoundingBox="7,41,158,178" version="1.1">
+
+<svg:polygon amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:referencePoints="3:172,0:1 4:172,0:1 " amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="#ffffff" points="0,0 0,226 172,226 172,34 138,0 0,0 " stroke="#5e5e5e" stroke-linecap="round" stroke-width="6" />
+
+<svg:polyline amf:fill-replaceable="false" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="none" points="134,3 134,38 169,38" amf:referencePoints="0:172,0:1 1:172,0:1 2:172,0:1 " stroke="#5e5e5e" stroke-linecap="round" stroke-width="6"/>
+
+<miniAMF fill="none">
+	<svg:polygon amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:referencePoints="3:86,0:1 4:86,0:1 " amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="#ffffff" points="0,0 0,113 86,113 86,26 60,0 0,0 " stroke="#5e5e5e" stroke-linecap="round" stroke-width="8" />
+
+	<svg:polyline amf:fill-replaceable="false" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" fill="#5e5e5e" points="58,0 86,28 58,28 58,0" amf:referencePoints="0:86,0:1 1:86,0:1 2:86,0:1 3:86,0:1" stroke="none" stroke-linecap="round" stroke-width="6"/>
+
+</miniAMF>
+
+
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+
+<amf:editorProperties amf:grid="off" amf:zoom="780"/>
+</svg>

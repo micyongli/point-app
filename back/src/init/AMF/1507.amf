@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+
+<svg:rect amf:fill-replaceable="true" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" fill="#ffffff" height="152" stroke="none" stroke-width="6" width="174" x="0" y="27"/>
+
+<svg:ellipse amf:fill-replaceable="true" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" cx="87" cy="21" fill="#ffffff" rx="87" ry="21" stroke="#5e5e5e" stroke-width="6"/>
+
+<svg:path amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:highLevelArcAngleExtend="-177" amf:highLevelArcCx="87" amf:highLevelArcCy="68" amf:highLevelArcHeight="43" amf:highLevelArcStartAngle="90" amf:highLevelArcType="open" amf:highLevelArcWidth="174" amf:highLevelShape="arc" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" d="M0.0,67.0 A87,21 0 0,0 173.88076952364793,68.12522305922329 " fill="#ffffff" stroke="#5e5e5e" stroke-width="6"/>
+
+<svg:path amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:highLevelArcAngleExtend="-177" amf:highLevelArcCx="87" amf:highLevelArcCy="121" amf:highLevelArcHeight="43" amf:highLevelArcStartAngle="90" amf:highLevelArcType="open" amf:highLevelArcWidth="174" amf:highLevelShape="arc" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" d="M0.0,121.0 A87,21 0 0,0 173.88076952364793,122.12522305922329 " fill="#ffffff" stroke="#5e5e5e" stroke-width="6"/>
+
+<svg:polyline amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="none" points="0,23 0,179 " stroke="#5e5e5e" stroke-width="6"/>
+<svg:polyline amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="none" points="174,23 174,179 " stroke="#5e5e5e" stroke-width="6"/>
+
+<svg:path amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:highLevelArcAngleExtend="-180" amf:highLevelArcCx="87" amf:highLevelArcCy="178" amf:highLevelArcHeight="43" amf:highLevelArcStartAngle="90" amf:highLevelArcType="open" amf:highLevelArcWidth="174" amf:highLevelShape="arc" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" d="M0.0,178.0 A87,21 0 0,0 174.0,178.0 " fill="#ffffff" stroke="#5e5e5e" stroke-width="6"/>
+
+<miniAMF fill="none">
+	<svg:rect amf:fill-replaceable="true" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" fill="#ffffff" height="152" stroke="none" stroke-width="12" width="174" x="0" y="27"/>
+
+	<svg:ellipse amf:fill-replaceable="true" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" cx="87" cy="21" fill="#ffffff" rx="87" ry="21" stroke="#5e5e5e" stroke-width="12"/>
+
+	<svg:path amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:highLevelArcAngleExtend="-177" amf:highLevelArcCx="87" amf:highLevelArcCy="68" amf:highLevelArcHeight="43" amf:highLevelArcStartAngle="90" amf:highLevelArcType="open" amf:highLevelArcWidth="174" amf:highLevelShape="arc" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" d="M0.0,67.0 A87,21 0 0,0 173.88076952364793,68.12522305922329 " fill="#ffffff" stroke="#5e5e5e" stroke-width="12"/>
+
+	<svg:path amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:highLevelArcAngleExtend="-177" amf:highLevelArcCx="87" amf:highLevelArcCy="121" amf:highLevelArcHeight="43" amf:highLevelArcStartAngle="90" amf:highLevelArcType="open" amf:highLevelArcWidth="174" amf:highLevelShape="arc" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" d="M0.0,121.0 A87,21 0 0,0 173.88076952364793,122.12522305922329 " fill="#ffffff" stroke="#5e5e5e" stroke-width="12"/>
+
+	<svg:polyline amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="none" points="0,23 0,179 " stroke="#5e5e5e" stroke-width="12"/>
+	<svg:polyline amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="none" points="174,23 174,179 " stroke="#5e5e5e" stroke-width="12"/>
+
+	<svg:path amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:highLevelArcAngleExtend="-180" amf:highLevelArcCx="87" amf:highLevelArcCy="178" amf:highLevelArcHeight="43" amf:highLevelArcStartAngle="90" amf:highLevelArcType="open" amf:highLevelArcWidth="174" amf:highLevelShape="arc" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" d="M0.0,178.0 A87,21 0 0,0 174.0,178.0 " fill="#ffffff" stroke="#5e5e5e" stroke-width="12"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+
+<amf:outline amf:points="87,0 53,1 25,6 6,12 1,16 0,21 0,24 3,27 0,27 0,179 0,179 2,183 7,187 26,193 54,197 87,199 119,197 147,193 166,187 171,183 173,179 174,179 174,27 170,27 173,24 174,21 172,16 167,12 148,6 120,1 87,0 "/>
+<amf:editorProperties amf:grid="off" amf:zoom="1000"/>
+</svg>

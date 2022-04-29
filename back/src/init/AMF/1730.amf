@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAb1BMVEX////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7////+/v6MFk+FAAAAI3RSTlMAFRAKDxHa3hkBDA2TBpAhJ4eZ7J146Ol6DtPv1YopriatL+YroIIAAABzSURBVHherZDZDoQwCEVBW1u17vusC/3/b3Rrmsg4b3NeCCcXSAA6AQg8ytWDjPYxLoEsZV9Sru35zt/XEbVGRIkLflyIOBbBhvCSKA3J4STHJ5M/Jit2PYdClcCTpm5aw2XX22Hkcrpcb5I95P54vt6fGQWsFLzVPBbsAAAAAElFTkSuQmCC" />
+</symbol>
+</defs>
+
+<svg:polyline amf:fill-replaceable="false" amf:fill-symboleffectAllowed="true" amf:referencePoints="0:379,0:1 1:379,0:1 2:379,0:1 3:379,0:1 " amf:stroke-replaceable="true" fill="#cccccc" points="321,0 379,0 379,50 321,50 " stroke="#808080" stroke-width="3"/>
+<svg:polygon amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:referencePoints="0:0,0:1 1:379,0:1 2:379,0:1 3:0,0:1 4:0,0:1 " amf:stroke-replaceable="true" fill="#ffffff" points="0,0 320,0 320,50 0,50 0,0 " stroke="#808080" stroke-width="3"/>
+<svg:polygon amf:fill-replaceable="false" amf:fill-symboleffectAllowed="true" amf:referencePoints="0:379,0:1 1:379,0:1 2:379,0:1 3:379,0:1 " amf:stroke-replaceable="true" fill="#5e5e5e" points="331,17 369,17 350,36 331,17 " stroke="none" stroke-width="1"/>
+<svg:polyline amf:fixedCorner="point(0,0)" amf:stroke-replaceable="false" fill="none" points="20,16 20,36 40,36 " stroke="#5e5e5e" stroke-width="3"/>
+<svg:polyline amf:fixedCorner="point(0,0)" amf:stroke-replaceable="false" fill="none" points="60,16 60,36 " stroke="#5e5e5e" stroke-width="3"/>
+
+<miniAMF fill="#aaaaaa">
+<use xlink:href="#image1" amf:stroke-replaceable="true" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+<amf:editorProperties amf:grid="off" amf:zoom="1000"/>
+</svg>

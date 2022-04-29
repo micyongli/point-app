@@ -1,7 +1,8 @@
 import { type } from "os"
-import { Entity, PrimaryGeneratedColumn, Column, PrimaryColumn } from "typeorm"
+import { Entity, PrimaryGeneratedColumn, Column, PrimaryColumn, Index } from "typeorm"
 
 @Entity({ name: 'a_db' })
+@Index(["dbId", "asn","groupRoot"], { unique: true })
 export class ADb {
 
     @PrimaryColumn({ length: 36, name: 'db_id' })
@@ -16,7 +17,7 @@ export class ADb {
     @Column("json")
     attr: {}
 
-    @Column({name:'group_root'})
+    @Column({ name: 'group_root' })
     groupRoot: string;
 
 }

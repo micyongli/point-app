@@ -1,4 +1,9 @@
-import { AppDataSource } from "./data-source"
+import { AppDataSource, entityManager } from "./data-source";
+import { opendir, open, readFile } from 'fs/promises';
+import { ASymbol } from "./entity/ASymbol";
+import path = require("path");
+import { readFileSync } from "fs";
+import { ST } from './ArisReport/map/symbo_type_map';
 
 const fastify = require('fastify')({ logger: true });
 // Declare a route
@@ -17,20 +22,34 @@ const start = async () => {
 }
 start();
 
+const getKeyByVal = (m, v) => {
+    for (let x in m) {
+        if (v === m[x]) {
+            return x;
+        }
+    }
+    return '';
+};
+
 AppDataSource.initialize().then(async () => {
 
-    // console.log("Inserting a new user into the database...")
-    // const user = new User()
-    // user.firstName = "Timber"
-    // user.lastName = "Saw"
-    // user.age = 25
-    // await AppDataSource.manager.save(user)
-    // console.log("Saved a new user with id: " + user.id)
+    const asymbol = entityManager().getRepository(ASymbol);
+    if (await asymbol.count() === 0) {
+        const timeStart = Date.now();
+        const datDir = './src/init/AMF/';
+        const curDir = await opendir(datDir);
+        for await (const f of curDir) {
+            if (f.isFile() && f.name.endsWith('.amf')) {
+                const id = parseInt(f.name.split('.')[0], 10);
+                const symbol = new ASymbol();
+                symbol.symbolId = id;
+                symbol.symbolType = getKeyByVal(ST, id);
+                symbol.symbolContent = readFileSync(datDir + f.name).toString();
+                await asymbol.insert(symbol);
+            }
+        }
+        console.log(`初始化符号完毕。[ using: ${Date.now() - timeStart} ms]`);
+    }
 
-    // console.log("Loading users from the database...")
-    // const users = await AppDataSource.manager.find(User)
-    // console.log("Loaded users: ", users)
-
-    // console.log("Here you can setup and run express / fastify / any other framework.")
 
 }).catch(error => console.log(error))

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" amf:innerBoundingBox="124,12,314,129" amf:referencePoints="0:0,0:1 1:450,0:1 2:450,150:1 3:0,150:1" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAArklEQVR42mP8//8/AzUBEwOVAQsO8f+DxoWjBo5kAxnxYA5CCRuUiN8AsQgBy99D6X6ooT9wGfgaiEWJ8I0glG6C+gyroSAD/xIZPL+AmB0pa3JjMxRkICuRBqLnb2Yg/gkNVyRV//+/+086aAEVe0AsB8S7oGbsB2JVkOBjIP5KAm6FGgbC29AsOsBIYQH7DIglkfhvKU3Yl9H41xiQnE8Olgfig0D8EYiPArEmAId+7mDWBbCeAAAAAElFTkSuQmCC" />
+</symbol>
+<symbol id="image2">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABGUlEQVR42mP8//8/w0ACJoYBBixEqPk/rENg1AGjDhh1wKgDRh0wJBzASCIOGugQWE+KI2gVBUQ7AuSAH9A6nxr4ORDrk+QIYJPs9X/qgpdAbABq6kFxID7F1HTAeyC+BWW/AGJDYhxBLQfcA2IFqHlNULFXQGxJyBHUcsBiJIu0kcT3I4ljxdTKBa5AbAHEQkCcDxW7DMSxaOrYgZiDVonwHxB/gLIvAbEEkk+VgXghNKruA/EyINYA90lokAuuALEkkuWgtPEYizpQGtEGKfhCRcsvA7EUWjwvwaN+CyMdumaPgFgWh9wbetSGjANdHR/DI3eOHlGgDsRHgFgETfwzEDsyECooqIR1gXgDED+HFtNbgNgEJAcA3DzfnviLw6cAAAAASUVORK5CYII=" />
+</symbol>
+<symbol id="image3">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABsklEQVR42u2azytEURTH75umYD0aCWPFcjIBZaWUUlJJbNQslfwF/gx7ZqUo2ZBIltNQkbJjJRsGsiLV8b051ev18n5N991X59SnuvPOu73PPffde4dxiEhlOXIq45F5gXyMe0gqIAIiIAIiIAIiIAIiIAIiIAIiIAIikE0Bp4XsZL0C1aQSNkyhRBJa4Fv9/a3HJJeg2AoJLfCZwqiPgmPQlVQizSlUASegO4lE2u9AhSsRW8K0wD6YBSvglj8b5kr0xJIgohcyE+dEpFz0gVfX9RtQ8uRsB3VqsgJHnvajqwo6yj6jXg3aDE0KlD3tNlBytZ/BZuReDU6hH7ABCmAA1FzXmmDMM31C4WgBeBQMVuIdtIMObjfBHG9u3jPXKlgGQ9x+AHugxhuw0Qr4hR75SZ+RLYKzf+6rg34iUipFAb0Cjfs8fJ5XrKC4Ap05LqfpeAPzoOFzbQlMh+hjBKw5Fv6f+BTMhMy9tvEb2WCE3F4bBZwouTYK3EfIfbJRYDdC7oGNL7FeFS/AREDeHZiysQJfvJQ2Ah5+AXw4Fv/cRh811sEiH/pyfII9BFt8JFG/FMQxM63I7jUAAAAASUVORK5CYII=" />
+</symbol>
+</defs>
+
+<svg:polygon amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:referencePoints="2:0,150:1 3:450,0:1 " amf:stroke-replaceable="none" fill="#1c7ca7" points="0,0 0,150 116,150 450,11 450,0 0,0 " stroke="none" stroke-width="0"/>
+<svg:polygon amf:fill-replaceable="false" amf:fill-symboleffectAllowed="false" amf:referencePoints="0:0,0:1 1:450,0:1 2:450,150:1 3:0,150:1 4:0,0:1 " amf:stroke-replaceable="true" fill="#c0c0c0" points="115,10 450,10 450,150 115,150 115,10 " stroke="none" stroke-width="0"/>
+<svg:polygon amf:fill-replaceable="false" amf:fill-symboleffectAllowed="true" amf:referencePoints="0:0,0:1 1:450,0:1 2:450,150:1 3:0,150:1 4:0,0:1 " amf:stroke-replaceable="true" fill="#ffffff" points="115,10 447,10 447,147 115,147 115,10 " stroke="none" stroke-width="0"/>
+<svg:polyline amf:fill-replaceable="false" amf:fill-symboleffectAllowed="false" amf:referencePoints="0:450,0:1 1:450,150:1 2:0,150:1 " amf:stroke-replaceable="false" fill="none" stroke="#c0c0c0" points="449,11 449,149 116,149 " stroke-width="1"/>
+<svg:rect amf:fill-replaceable="false" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="true" fill="none" height="150" stroke="#c0c0c0" stroke-width="0" width="450" x="0" y="0"/>
+<use xlink:href="#image1" amf:fixedCorner="point(0,75)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="true" fill="none" x="24" y="41" zoomMax="100"/>
+<use xlink:href="#image2" amf:fixedCorner="point(0,75)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="true" fill="none" x="24" y="41" zoomMin="101" zoomMax="160"/>
+<use xlink:href="#image3" amf:fixedCorner="point(0,75)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="true" fill="none" x="24" y="41" zoomMin="161" />
+
+<miniAMF>
+<use xlink:href="#image1" amf:stroke-replaceable="true" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+
+<amf:outline amf:points="0,0 0,150 115,150 115,150 450,150 450,10 450,10 450,0 0,0"/>
+<amf:editorProperties amf:grid="off" amf:zoom="729"/>
+</svg>

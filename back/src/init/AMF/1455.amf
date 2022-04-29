@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAaVBMVEVyqxb///9yqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxagMlFhAAAAInRSTlMAAOpE/AjsAv17SbZ/zMmAE5zImyAh9x0ezWIy3t+1SDNjoHKcvwAAAHBJREFUeF5lz0cOwzAMRFG69/S4p839DxliRoaBRIu3+AApyaKfY+FkV7mFWwcZwiuHh9plKNoSAGU4PZFWQOMyLCvixADqYe5xGM0gPXx6XAYPlCPvxz4Slmqd1LVHXksZ9CQZgt0nyP1zZxn9ff8LNLYLxLoatFwAAAAASUVORK5CYII=" />
+</symbol>
+<symbol id="image2">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAApVBMVEVyqxb///9yqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZYLtZHAAAANnRSTlMAAAO2k/73DdQ5AfBGcen7/CHcBNcYyRG54ZfSgmpNB6PDWPN9FGjyXFsPKQinCagtDugfTB4h/c0QAAAAuklEQVR4Xn3SRxLCQAxEUY0HbMAYTM4559z3PxpyoUFmYbT6VW/XJTIZR6nzclppuFlI7S1SUCsAWgrFCoBvKex8CGx9KJSGeXxASuB44iwkcL4k5aDV5rIBg5TAtceR84hBi+G5AaojogS0DEUxEJZJgMvBugosxgJahqgcAnEkwPUFOtQ5+o0EpARoNePqdhikHNBkytlkcKWTLGUSVzri/DOiVMbs9x+gx0CAXoMfoMBC688zmIx7A28HLUbtZWrkAAAAAElFTkSuQmCC" />
+</symbol>
+<symbol id="image3">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAApVBMVEVyqxb///9yqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZyqxZYLtZHAAAANnRSTlMAAAj3/QLs+t4TfzO1MmKcIMyAYyG2zUioGG6bDATxb/4SSUrfKDxUpownwFPVi9Tlv6fkO525fmfqAAABO0lEQVR4Xs3W12rDQBBG4YnSnOrUYqf23su8/6MloOyeGX7WkJuQuTzwgf0LhGzql/cHoHndvpZJYG3dtUwAu3PuUtpgdnHGAZQWOF12B1BaYGXgAEoTrE57ARSAbucOoABkOwAFoGtyFAVsF44igO0yWKAAZDv3vR7EAtDt5o+tB7EI6IZliZcr+wFaAGx3P7ICKALOynYnt4cGoADymkfXZgBKBmz3eGkASgJpzQMDUDJIa9ajKNisYAygKLClizLIDT8gFv3T20U83wFC0Vk36qwPAIoAs/P64J54TBQFtrVTlnwdASgCrPss4v0DQBFgad8exKIg7vvWg1gU1H25VBSwL4CigH0BoShgXwBFANcNAbEo0H1zUcC+AwBFgO6bigLdV0oD1BePlAx0XykZ6L5avsE//Dj5AgUwsyUCq1mCAAAAAElFTkSuQmCC" />
+</symbol>
+</defs>
+
+<svg:ellipse amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" cx="61" cy="61" fill="#ffffff" rx="61" ry="61" stroke="#72ab16" stroke-width="6"/>
+
+<use xlink:href="#image1" amf:fixedCorner="point(61,61)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#72ab16"  fill="none" x="35" y="35" zoomMax="100"/>
+<use xlink:href="#image2" amf:fixedCorner="point(61,61)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#72ab16" fill="none" x="35" y="35" zoomMin="101" zoomMax="160"/>
+<use xlink:href="#image3" amf:fixedCorner="point(61,61)" amf:fill-symboleffectAllowed="false" amf:stroke-color-replaceable="true" stroke="#72ab16" amf:stroke-replaceable="false" fill="none" x="35" y="35" zoomMin="161" />
+
+<miniAMF fill="none">
+	<use xlink:href="#image1" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#72ab16" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+
+<amf:editorProperties amf:grid="off" amf:zoom="1000"/>
+</svg>

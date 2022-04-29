@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" amf:innerBoundingBox="14,66,340,144" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAb1BMVEX///8Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos5vM9RVAAAAJHRSTlMAAPLz8CqyrCMBIrWlGfjoK+p1u+XkvXtg61wM7wpJR4N8tqteAhWyAAAAaUlEQVR4XrXO1wqAMAxAUa117713/v8bbTVqBaVP3qdwICQKS2XpBqGmxScGiBEFVuw80IU9T0Q7ODB8Rem6GhFuNR76fulKjn6SZoTkRenfWGmAac2JLTes6xEHEBoRJxFnxEXEVfmnDdkvD3Yf8neIAAAAAElFTkSuQmCC" />
+</symbol>
+<symbol id="image2">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAtFBMVEX///8Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos41/QRfAAAAO3RSTlMAAHvzARBwdQw6CPThyepg8Ocwsx9tka5XLz2oxMP1zSPMK/ItIoEpn54k8fv5fWpy0dUX/hh4joy/um4DvvkAAACySURBVHhe3dFnC8IwEIDhpolVW621aqd7773v//8vUUK92IOC4Bffb4GHcMlpz5gsp/esQTlfkEdNloBiFV6VQhoM2yBzuiRoQVKNAiGg6gRoYFAhwBiD8zc3uFkzsGbGK1h/ATJ7lPGTLkNA3UXH4vQu1H4GzMjwYt+PPSMyCTCZckjis/kHEPoSlFZroYANpNoqYJcGewwOR0h3QiAAogCBCwWuCNwocH8D4VDA1v6nBxrwRq/XuHyFAAAAAElFTkSuQmCC" />
+</symbol>
+<symbol id="image3">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABBVBMVEX///8Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos4Aos5ZQBS5AAAAVnRSTlMAAPz91/XxM/hKnaLZnkvvbdb7YAn+BAdOdgZeo5IQAkCHGtI9cgvg+ie9GFBYGTpSoQ/0TAVDIdU4CPLznCJXKfDbKw2XHiXG0wE8gYjBx0mGQnOk0fX9Po8AAAEJSURBVHhe7dNXU8JAEMDxXAqBJKAoogYNAaT3Yu2997Lf/6P4csPE7GWPmTw5+H//zc3d7ik8FijfGerjw+xxpsgCKTwMfAd4lf1ZwKIG05aW5eB0BQKpKRnYNeBXC20J2IBQmzQYJcMgsUqCNUBtkWAdgwIJShhUY50Q/w6e5JXiz4GdhCfdkwDWJXYp9rbydi6At9dnNODlB7ZjHOnWRPbjcH8YbJebptksu7OAg7f3Vl3lU6u3SpkcCc6sc7R86ctIcHWtgSAt7YnBTQUi0m+F4A4iu38QABOIHgXgiQLPAvBCgVcMckkKNGoI+ED2gcAnDaoIfNHARiBLg+8wqKk0aLjKfPXfDydf3GC5XKRbAAAAAElFTkSuQmCC" />
+</symbol>
+</defs>
+<svg:rect amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:rectRoundRadius="50" amf:rectRoundingFixed="" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="#ffffff" height="220" stroke="#00a2ce" stroke-width="7" width="368" x="0" y="0"/>
+<use xlink:href="#image1" amf:fixedCorner="point(0,0)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#00a2ce" fill="none" x="14" y="12" zoomMax="100"/>
+<use xlink:href="#image2" amf:fixedCorner="point(0,0)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#00a2ce" fill="none" x="14" y="12" zoomMin="101" zoomMax="160"/>
+<use xlink:href="#image3" amf:fixedCorner="point(0,0)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#00a2ce" fill="none" x="14" y="12" zoomMin="161" />
+
+<miniAMF fill="none">
+	<use xlink:href="#image1" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#00a2ce" fill="none"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+
+<amf:outline amf:points="25,0 15,1 7,7 1,15 0,25 0,175 1,184 7,192 15,198 25,200 425,200 434,198 442,192 448,184 450,175 450,25 448,15 442,7 434,1 425,0 25,0"/>
+<amf:editorProperties amf:grid="off" amf:zoom="778"/>
+</svg>

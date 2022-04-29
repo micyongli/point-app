@@ -22,4 +22,5 @@ export const AppDataSource = new DataSource({
     multipleStatements: true,
     trace: true,
     supportBigNumbers: true,
-})
+});
+export const entityManager = () => AppDataSource.createEntityManager();

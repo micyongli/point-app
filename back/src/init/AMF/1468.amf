@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABlBMVEVyqxZyqxZ/Wt+MAAAAAXRSTlMAQObYZgAAAB1JREFUeF5jYH8AQmwJUPSvHoQOMAMRhA2XgqgEAEKqDXuldi/oAAAAAElFTkSuQmCC" />
+</symbol>
+<symbol id="image2">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAQMAAADaua+7AAAABlBMVEVyqxZyqxZ/Wt+MAAAAAXRSTlMAQObYZgAAACBJREFUeF5jYPzfgMCHUfH/w//h+AEDOzJGlkPXh2wmAFmbJ0OjXl9xAAAAAElFTkSuQmCC" />
+</symbol>
+<symbol id="image3">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwAQMAAABtzGvEAAAABlBMVEVyqxZyqxZ/Wt+MAAAAAXRSTlMAQObYZgAAACxJREFUeF5jYGD8/7+BgTjqhzwF1P//P+T//yeG+sMABPZEUMSbSaHjiQ8lAFE0fusu4csxAAAAAElFTkSuQmCC" />
+</symbol>
+</defs>
+
+<svg:ellipse amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" cx="61" cy="61" fill="#ffffff" rx="61" ry="61" stroke="#72ab16" stroke-width="6"/>
+
+<use xlink:href="#image1" amf:fixedCorner="point(61,61)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#72ab16"  fill="none" x="35" y="35" zoomMax="100"/>
+<use xlink:href="#image2" amf:fixedCorner="point(61,61)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#72ab16" fill="none" x="35" y="35" zoomMin="101" zoomMax="160"/>
+<use xlink:href="#image3" amf:fixedCorner="point(61,61)" amf:fill-symboleffectAllowed="false" amf:stroke-color-replaceable="true" stroke="#72ab16" amf:stroke-replaceable="false" fill="none" x="35" y="35" zoomMin="161" />
+
+<miniAMF fill="none">
+	<use xlink:href="#image1" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#72ab16" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+
+<amf:editorProperties amf:grid="off" amf:zoom="1000"/>
+</svg>

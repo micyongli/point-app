@@ -1,18 +1,17 @@
-import { Entity, Column, PrimaryColumn } from "typeorm"
+import { Entity, Column, PrimaryColumn, Index } from "typeorm"
 
 @Entity({ name: 'a_symbol' })
+@Index(['symbolType','symbolId'])
 export class ASymbol {
 
     @PrimaryColumn({ type: 'int' })
-    id: number
+    symbolId: number
 
-    @Column({ type: 'longblob' })
-    symbol: string
+    @Column({ type: 'longblob', name: 'symbol_content' })
+    symbolContent: string
 
-    @Column({ name: 'symbol_type', length: 128 })
+    @Column({ name: 'symbol_type', length: 64 })
     symbolType: string
 
-    @Column("json")
-    attr: {}
 
 }

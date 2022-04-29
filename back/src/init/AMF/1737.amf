@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAnFBMVEX+/v7////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7///8BSB/xAAAAMnRSTlMAAOrxEiUm5yrrNPATkv3u3+8y3Sjy4OEn5OgG4s4dCDbcGQGTppYEgoMK1NcLL7a0Mf+7J08AAAB1SURBVHherchHEsIwDAXQL0MCdmqh996rfP+7MZlhgRUvecsH8gCNrVAR1LwMvsKaKXgAa/bql07ZwvYydtXZ7fw/R75cTTzZT5s544YhKG85oiwn0LTtiBdLghSvN7K2uyQ6JCKPJ8X6DOFy1be7zMczeL0/ejoqG9Q0TwQAAAAASUVORK5CYII=" />
+</symbol>
+</defs>
+
+<svg:rect amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="true" fill="#aaaaaa" height="52" stroke="#808080" stroke-linecap="round" stroke-width="3" width="330" x="0" y="0"/>
+
+<miniAMF fill="#aaaaaa">
+<use xlink:href="#image1" amf:stroke-replaceable="true" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+<amf:editorProperties amf:grid="off" amf:zoom="826"/>
+</svg>

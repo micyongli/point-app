@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<svg:ellipse amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="true" cx="20" cy="20" fill="#5e5e5e" rx="20" ry="20" stroke="#5e5e5e" stroke-width="1"/>
+<amf:outline amf:points="20,0 12,1 5,5 1,12 0,20 1,27 5,34 12,38 20,40 27,38 34,34 38,27 40,20 38,12 34,5 27,1 20,0 "/>
+<amf:editorProperties amf:grid="off" amf:zoom="1000"/>
+<assignmentSymbolBounds amf:anchorPoint="0,0" height="44" width="44" x="-60" y="0"/>
+</svg>

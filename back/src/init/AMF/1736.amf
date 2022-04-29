@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAh1BMVEX////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7////+/v4yr811AAAAK3RSTlMAABEWFQIU45Tp7yoBIg6P6HEciiTkEAjgGxPwlwR/cuqACtXYDC6zI7EwyhUDYAAAAH5JREFUeF6Nz8cOAzEIRVHAdWbSe++d/P/3RWxiB88id3mkJwT8H7cEDEWCzNwrsMuNQ8RfHPGkg9/SnHILgt5bl2HoC0rJBnsZCySbDqEWpBSEMdTA7R+RybIr42eWoGgud1VmsUSFLsb1Jirc7qr34ajnp3N1uWq83R/P1wd9uA/Wl2yrMgAAAABJRU5ErkJggg==" />
+</symbol>
+</defs>
+
+<svg:rect amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="true" fill="#ffffff" height="326" stroke="#808080" stroke-linecap="round" stroke-width="3" width="526" x="0" y="0"/>
+<svg:polygon amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:referencePoints="0:526,0:1 1:526,326:1 2:526,326:1 3:526,0:1 4:526,0:1 " amf:stroke-replaceable="true" fill="#cccccc" points="462,66 462,260 524,260 524,66 462,66 " stroke="#cccccc" stroke-width="1"/>
+<svg:polygon amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:referencePoints="0:527,0:1 1:527,0:1 2:527,0:1 3:527,0:1 4:527,0:1 " amf:stroke-replaceable="true" fill="#cccccc" points="463,2 463,64 525,64 525,2 463,2 " stroke="#808080" stroke-width="3"/>
+<svg:polygon amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:referencePoints="0:527,0:1 1:527,0:1 2:527,0:1 3:527,0:1 " amf:stroke-replaceable="true" fill="#5e5e5e" points="477,38 493,22 509,38 477,38 " stroke="#5e5e5e" stroke-width="1"/>
+<svg:polygon amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:referencePoints="0:526,326:1 1:526,326:1 2:526,326:1 3:526,326:1 4:526,326:1 " amf:stroke-replaceable="true" fill="#cccccc" points="462,262 462,324 524,324 524,262 462,262 " stroke="#808080" stroke-width="3"/>
+<svg:polygon amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:referencePoints="0:526,326:1 1:526,326:1 2:526,326:1 3:526,326:1 " amf:stroke-replaceable="true" fill="#5e5e5e" points="477,286 509,286 493,302 477,286 " stroke="#5e5e5e" stroke-width="1"/>
+
+<miniAMF fill="#aaaaaa">
+<use xlink:href="#image1" amf:stroke-replaceable="true" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+<amf:editorProperties amf:grid="off" amf:zoom="570"/>
+</svg>

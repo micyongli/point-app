@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAUVBMVEX////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7////+/v7PKwikAAAAGXRSTlMAAAqx6IvaGRCUg5iRgJLpgdfZDYUo8ycvr4VBjQAAAElJREFUeF5jkMQCGCQZ0AEDbkFGRkYmhF58KkEKqKhyYN3JiqaSi4GDjZ0BXSUfpxg3D7ogL4sUvwC6IJMgi5AwmtUioszizBIAWdAO0SQ09X8AAAAASUVORK5CYII=" />
+</symbol>
+</defs>
+
+<svg:polygon amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:referencePoints="0:0,0:1 1:330,0:1 2:330,0:1 3:0,0:1 4:0,0:1 " amf:stroke-replaceable="true" fill="#cccccc" points="0,0 330,0 330,52 0,52 0,0 " stroke="#808080" stroke-width="3"/>
+<svg:polyline amf:fixedCorner="point(0,0)" amf:stroke-replaceable="false" fill="none" points="14,9 48,9 " stroke="#808080" stroke-width="2"/>
+<svg:polyline amf:fixedCorner="point(0,0)" amf:stroke-replaceable="false" fill="none" points="8,15 48,15 " stroke="#808080" stroke-width="2"/>
+<svg:polyline amf:fixedCorner="point(0,0)" amf:stroke-replaceable="false" fill="none" points="8,21 48,21 48,21 " stroke="#808080" stroke-width="2"/>
+<svg:polyline amf:fixedCorner="point(0,0)" amf:stroke-replaceable="false" fill="none" points="14,28 48,28 " stroke="#808080" stroke-width="2"/>
+<svg:polyline amf:fixedCorner="point(0,0)" amf:stroke-replaceable="false" fill="none" points="8,34 48,34 " stroke="#808080" stroke-width="2"/>
+<svg:polyline amf:fixedCorner="point(0,1)" amf:stroke-replaceable="false" fill="none" points="8,41 48,41 48,41 " stroke="#808080" stroke-width="2"/>
+
+
+<miniAMF fill="#5e5e5e">
+<use xlink:href="#image1" amf:stroke-replaceable="true" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+<amf:editorProperties amf:grid="off" amf:zoom="996"/>
+</svg>

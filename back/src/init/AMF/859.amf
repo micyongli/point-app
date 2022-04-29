@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<svg:path amf:highLevelArcAngleExtend="-180" amf:highLevelArcCx="14" amf:highLevelArcCy="7" amf:highLevelArcHeight="13" amf:highLevelArcStartAngle="-90" amf:highLevelArcType="open" amf:highLevelArcWidth="27" amf:highLevelShape="arc" amf:stroke-replaceable="true" d="M27.5,7.0 A13,6 0 0,0 0.5,6.999999999999999 " fill="none" stroke="#00a2ce" stroke-width="7"/>
+<svg:path amf:highLevelArcAngleExtend="-180" amf:highLevelArcCx="41" amf:highLevelArcCy="5" amf:highLevelArcHeight="19" amf:highLevelArcStartAngle="89" amf:highLevelArcType="open" amf:highLevelArcWidth="27" amf:highLevelShape="arc" amf:stroke-replaceable="true" d="M27.50205611538872,4.834202138845807 A13,9 0 0,0 54.49794388461128,5.165797861154195 " fill="none" stroke="#00a2ce" stroke-width="7"/>
+<amf:outline amf:points="14,0 4,2 1,4 0,7 27,7 26,4 23,2 14,0 "/>
+<amf:outline amf:points="27,4 28,8 31,11 35,13 40,14 41,14 46,13 50,11 53,8 54,5 27,4 "/>
+<amf:editorProperties amf:grid="off" amf:zoom="100"/>
+</svg>

@@ -1,0 +1,5 @@
+<?xml version='1.0' ?>
+<svg amf:rotationPoint="0,18" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2">
+ <svg:polygon fill="#000000" amf:fill-replaceable="true" stroke="none" points="20,0 0,18 20,36  " />
+ <amf:outline amf:points="20,0 0,18 20,36 20,0 " />
+</svg>

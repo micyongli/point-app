@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<svg:rect amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="#ffffff" height="150" stroke="#5e5e5e" stroke-linecap="round" stroke-width="6" width="450" x="0" y="0"/>
+
+<miniAMF fill="none">
+<svg:rect amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" fill="#ffffff" height="40" stroke="$color§" stroke-linecap="round" stroke-width="3" width="80" x="0" y="0"/>
+<svg:polyline amf:stroke-replaceable="true" fill="none" points="12,0 12,40 " stroke="#5e5e5e" stroke-width="3"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+
+<amf:editorProperties amf:grid="off" amf:zoom="1000"/>
+</svg>

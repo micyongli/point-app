@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="68" width="68" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAABKVBMVEX+/v7////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7////+/v7INRiwAAAAYXRSTlMAACMk2xAiBewS1h4nKSbZ4BYVGBlbWg/BH+EbJQxckVn3vwfzsxqQKCEdAhRGHCsO1xMR2ugqgcDpi/Dt4/toCPJVFwaP/NGvBE6Kucb0qy7uQceMlJjfWH/ULA0tsrEvUOkT5AAAASdJREFUeF5tj9Vuw0AQRce7XkPixJA4zNgmDXORmZlh9v8/omu7b+3RlUY6GtCA9A8A0NaZXt60ma6z/joPM70NoB5rA7JTpq+aZqYXh70jrQ7AkOOofs7WOL9kV5XhDa8BJJHzg2h0lQuaOa9qnvwDwAq+EdqIElshNjEahCz5MocYDslB0iGZCungFFF52lBki8gWla2IkMmtfUKkandbIeqyIhITEk7niKnd/B4i8ePtbI4LnY47PjtBpH7EeCljA4p/rUSMqmIDNcT4hQu+TFR6v50GAsYDOcSpZ7LXufwskIi3I3RoLJKV+qG4BHcJ8CnNI4iYvn+oPRbFIcdzTua52s3G1ZcJX8wAimah1SqYRQBJkB9MzHcAcFOIKRcCPj6Nr+8fSUc9fsHcCvUAAAAASUVORK5CYII=" />
+</symbol>
+</defs>
+
+<svg:polygon amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:referencePoints="0:0,0:1 1:391,0:1 2:391,0:1 3:0,0:1 4:0,0:1 " amf:stroke-replaceable="true" fill="#ffffff" points="0,0 330,0 330,52 0,52 0,0 " stroke="#808080" stroke-width="3"/>
+<svg:polyline amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:referencePoints="0:391,0:1 1:391,0:1 2:391,0:1 3:391,0:1 " amf:stroke-replaceable="true" fill="#cccccc" points="331,0 391,0 391,52 331,52 " stroke="#808080" stroke-width="3"/>
+<svg:rect amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:fixedCorner="point(391,0)" amf:stroke-replaceable="true" fill="#f3f3e3" height="32" stroke="#433f37" stroke-width="2" width="31" x="337" y="7"/>
+<svg:polyline amf:fixedCorner="point(391,0)" amf:stroke-replaceable="true" fill="none" points="338,9 367,9 366,9 " stroke="#89662f" stroke-width="2"/>
+<svg:text amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:fixedCorner="point(391,0)" amf:stroke-replaceable="true" amf:textAllign="left" fill="#89662f" font-family="Arial" font-size="28" font-style="" font-weight="bold" stroke="#000000" stroke-width="1" text-decoration="" x="342" y="38">B</svg:text>
+<svg:rect amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:fixedCorner="point(391,0)" amf:stroke-replaceable="true" fill="#ffffff" height="32" stroke="#433f37" stroke-width="2" width="31" x="353" y="13"/>
+<svg:polyline amf:fixedCorner="point(391,0)" amf:stroke-replaceable="true" fill="none" points="354,15 383,15 382,15 " stroke="#89662f" stroke-width="2"/>
+<svg:text amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:fixedCorner="point(391,0)" amf:stroke-replaceable="true" amf:textAllign="left" fill="#89662f" font-family="Arial" font-size="28" font-style="" font-weight="bold" stroke="#000000" stroke-width="1" text-decoration="" x="361" y="44">7</svg:text>
+
+<miniAMF fill="#aaaaaa">
+<use xlink:href="#image1" amf:stroke-replaceable="true" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+<amf:editorProperties amf:grid="off" amf:zoom="755"/>
+</svg>

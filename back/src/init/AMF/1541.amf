@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns:amf="http://www.ids-scheer.de/aris/amf/ns.htm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" amf:version="2" version="1.1">
+<defs>
+<symbol id="image1">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEXadAD////adADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadABhUc6NAAAALHRSTlMAAID81Vd/Kz/vKi3aJALiD7x87YiVmoRCByhR+1uuVkYQ+Jtl9APAHf14UoA4C/IAAACASURBVHheVc1HFsMwCARQhCzX9N57z9z/fEHWLJxZwefNQ5x0U7p/WE0ITd5CvyoIM0QZ9TJJMBjC5DGGEkpMPfI5UBAWWAYPIJME6wobiaKELXZBZG8NwgHwRzlZI8H5ApNwhRJugCr8HTXhGU8afyR4vW2PooSPDa3UhK90437yYgn5WthBbgAAAABJRU5ErkJggg==" />
+</symbol>
+<symbol id="image2">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAt1BMVEXadAD////adADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadACUgIUhAAAAPHRSTlMAACDfC1V/9QeqRvYf4AOVD7cCtu+r4kItMNCIP/sIvK6BslHbJmT3acAQ+B39d9PSJC8u2pqKQJxxzzRFBKhoAAAAyUlEQVR4Xm3O127DQBBDUVrSWlIclzgu6b33Xu//f1ewGDh8ER95MMSop45MtnudMDqpumE8l2Gr/w9XJIN2Wclyv64M0wWEPM+Yy7AHIZM3SAa9EzI6hLoyNDPYyTIGWhlO4exgg0gy6AiO1WwCeclwcwvnUpNvaGW4gMs1KW6SQdfAIMtLXjLc3UNIH1oZHoCQR0gGPQHDIQy+85LhNfdFURI/GT6gLKSQZJguyH1IXRk+ow9pZfgq16WVJEPzE31IZfiN3gn4A3a3IBRocpsoAAAAAElFTkSuQmCC" />
+</symbol>
+<symbol id="image3">
+<svg:image height="56" width="56" xlink:href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAA3lBMVEXadAD////adADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadADadACPOwH/AAAASXRSTlMAAIB/Ht0s1e8rAtbeA/0/QsD4B+IkD9IoLddpfZV+vK4QUdF7Hdoq+5RB2ZruMLuJjf4fm2NSh/phZXbld5guikCcU60RZt94HGgbmQAAAX1JREFUeF6V0tduQjEQBNDFgC81lFAChEAICem9957M//9Q0MoWwp6H3H205kgjaySTych/b38eTgPq03SgfWRTgc5BX9KA6glMKrAHWA56WQYGQF84uAER9VvAcFBqIRbtAgDLQQ2IRGcHQFk4OEQkqiMAMBysFhCJob5YDiZAKAaANuLgE6Go7yowHGw2EYi262g5uAKWhX6QNuKggWVRHTlsONheUXBX8WLoreXgQWOPpZwX/srCQVfBmUgoDAc96B3LXOSXgOXgVEEiEopEKCi1FEwlEoYDHSrOLyQSloNLBT85CUUiFPih5iNhOLgGQlFzjTgYIxLrrhEBOtRIbCkwHNwDoViDXpGDBiLhGxGgQ42Ea8TBExAK34iDrgfGOFF5do0oeMFiNiZaNgGvi3wgigToUH0+EIlQ8LbIB8Jw8O7zkSgS4IeaFYlEIhR8uHwsDAdjl4/FjIKvpuaJSISCb80zYThoaJ6JGQW5lQ317Cj43ZB0YCIpwB+5e6bLqJJRkQAAAABJRU5ErkJggg==" />
+</symbol>
+</defs>
+<svg:ellipse amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" cx="61" cy="61" fill="#ffffff" rx="61" ry="61" stroke="#da7400" stroke-width="6"/>
+<svg:ellipse amf:fill-replaceable="true" amf:fill-symboleffectAllowed="true" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" cx="61" cy="61" fill="#ffffff" rx="51" ry="51" stroke="#da7400" stroke-width="6"/>
+<use xlink:href="#image1" amf:fixedCorner="point(61,61)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#da7400" fill="none" x="35" y="35" zoomMax="100"/>
+<use xlink:href="#image2" amf:fixedCorner="point(61,61)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#da7400" fill="none" x="35" y="35" zoomMin="101" zoomMax="160"/>
+<use xlink:href="#image3" amf:fixedCorner="point(61,61)" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#da7400" fill="none" x="35" y="35" zoomMin="161" />
+
+<miniAMF fill="none">
+	<use xlink:href="#image1" amf:fill-symboleffectAllowed="false" amf:stroke-replaceable="false" amf:stroke-color-replaceable="true" stroke="#da7400" fill="none" x="0" y="0"/>
+</miniAMF>
+
+<assignmentSymbolBounds 
+	x="-60"
+	y="0"
+	width="46"
+	height="46"
+	amf:anchorPoint="0,0"
+/>
+
+<amf:editorProperties amf:grid="off" amf:zoom="1000"/>
+</svg>
