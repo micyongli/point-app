@@ -5,7 +5,7 @@
  * @Last Modified time: 2022-04-29 15:58:29
  */
 
-import { Entity, PrimaryGeneratedColumn, Column, PrimaryColumn, Index } from "typeorm"
+import { Entity, Column, PrimaryColumn, Index } from "typeorm"
 
 @Entity({ name: 'a_def' })
 @Index(["dbId", "defId", "ver", "asn"], { unique: true })

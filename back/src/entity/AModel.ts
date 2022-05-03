@@ -5,10 +5,10 @@
  * @Last Modified time: 2022-04-29 15:58:35
  */
 
-import { Entity, PrimaryGeneratedColumn, Column, PrimaryColumn, Index } from "typeorm"
+import { Entity, Column, PrimaryColumn, Index } from "typeorm"
 
 @Entity({ name: 'a_model' })
-@Index(["dbId","groupId","modelType","modelId","ver","asn"])
+@Index(["dbId", "groupId", "modelType", "modelId", "ver", "asn"])
 export class AModel {
 
     @PrimaryColumn({ length: 36, name: 'db_id' })

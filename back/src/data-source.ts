@@ -15,7 +15,7 @@ import { ASymbol } from "./entity/ASymbol"
 
 export const AppDataSource = new DataSource({
     type: "mysql",
-    host: "localhost",
+    host: "192.168.0.101",
     port: 3316,
     username: "root",
     password: "1",
