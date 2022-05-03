@@ -4,6 +4,7 @@
  * @Last Modified by:   micyongli@163.com 
  * @Last Modified time: 2022-04-29 15:58:54 
  */
+
 export const ALL_TYPE_MAP = {
     "AT_NAME": 1,
     "AT_NUM_OF_EMPL": 3,

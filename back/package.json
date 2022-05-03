@@ -12,7 +12,8 @@
       "fastify": "^3.29.0",
       "mysql2": "^2.3.3",
       "reflect-metadata": "^0.1.13",
-      "typeorm": "0.3.6"
+      "typeorm": "0.3.6",
+      "xmlreader": "^0.2.3"
    },
    "scripts": {
       "start": "nodemon --delay 2 -e \"ts,js,json\" --exec \"ts-node src/index.ts\"",

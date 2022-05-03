@@ -1,31 +1,27 @@
-/*
- * @Author: micyongli@163.com 
- * @Date: 2022-04-29 15:58:41 
- * @Last Modified by:   micyongli@163.com 
- * @Last Modified time: 2022-04-29 15:58:41 
- */
 
-import { Entity, PrimaryGeneratedColumn, Column, PrimaryColumn } from "typeorm"
+import {Entity, Column, PrimaryColumn} from "typeorm"
+import {AAttr, AOcc} from "./ADb";
 
-@Entity({ name: 'a_connect' })
+@Entity({name: 'a_connect'})
 export class AConnect {
 
-    @PrimaryColumn({ length: 36, name: 'db_id' })
+    @PrimaryColumn({length: 36, name: 'db_id'})
     dbId: string
 
-    @Column({ length: 36 })
-    sourceId: string
-
-    @Column({ length: 36 })
-    targetId: string
-
-    @Column("int")
+    @PrimaryColumn("int")
     asn: number
 
-    @Column("json")
-    attr: {}
+    @Column({length: 36, name: 'source_id'})
+    sourceId: string
+
+    @Column({length: 36, name: 'target_id'})
+    targetId: string
+
 
     @Column("json")
-    occ: {}
+    attr: AAttr[]
+
+    @Column("json")
+    occ: AOcc[]
 
 }

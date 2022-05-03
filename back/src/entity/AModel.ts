@@ -1,23 +1,19 @@
-/*
- * @Author: micyongli@163.com 
- * @Date: 2022-04-29 15:58:00 
- * @Last Modified by: micyongli@163.com
- * @Last Modified time: 2022-04-29 15:58:35
- */
-
 import { Entity, Column, PrimaryColumn, Index } from "typeorm"
+import { AAttr, ACxnOcc, AOcc } from "./AType"
 
 @Entity({ name: 'a_model' })
-@Index(["dbId", "groupId", "modelType", "modelId", "ver", "asn"])
 export class AModel {
 
     @PrimaryColumn({ length: 36, name: 'db_id' })
     dbId: string
 
+    @PrimaryColumn("int")
+    asn: number
+
     @PrimaryColumn({ length: 36, name: 'group_id' })
     groupId: string
 
-    @PrimaryColumn({ length: 36 })
+    @PrimaryColumn({ length: 36, name: 'model_id' })
     modelId: string
 
     @Column({ name: 'model_name', length: 128 })
@@ -27,15 +23,15 @@ export class AModel {
     modelType: string
 
     @Column("int")
-    ver: number
-
-    @Column("int")
-    asn: number
+    revision: number
 
     @Column("json")
-    attr: {}
+    attr: AAttr[]
 
-    @Column("json")
-    occ: {}
+    @Column({ type: "json", name: 'obj_occ' })
+    objOcc: AOcc[]
+
+    @Column({ type: 'json', name: 'cxn_occ' })
+    cxnOcc: ACxnOcc[]
 
 }

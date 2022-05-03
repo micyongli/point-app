@@ -1,29 +1,35 @@
-/*
- * @Author: micyongli@163.com 
- * @Date: 2022-04-29 15:58:21 
- * @Last Modified by:   micyongli@163.com 
- * @Last Modified time: 2022-04-29 15:58:21 
- */
 
-import { Entity, PrimaryGeneratedColumn, Column, PrimaryColumn, Index } from "typeorm"
+import { Entity, Column, PrimaryColumn } from "typeorm"
+import { AGroup, AModelRevision } from "./AType"
 
 @Entity({ name: 'a_db' })
-@Index(["dbId", "asn","groupRoot"], { unique: true })
 export class ADb {
 
     @PrimaryColumn({ length: 36, name: 'db_id' })
     dbId: string
 
+    @PrimaryColumn("int")
+    asn: number
+
     @PrimaryColumn({ length: 128, name: 'db_name' })
     dbName: string
 
-    @Column("int")
-    asn: number
+    @Column({ name: 'submit_desc', length: 128 })
+    submitDesc: string
 
-    @Column("json")
-    attr: {}
+    @Column({ name: 'create_by', length: 128 })
+    createBy: string
 
-    @Column({ name: 'group_root' })
-    groupRoot: string;
+    @Column({ type: 'bigint', name: 'create_time' })
+    createTime: number
+
+    @Column({ length: 36, name: 'root_group' })
+    rootGroup: string
+
+    @Column({ type: 'json', name: 'root_children' })
+    rootChildren: AGroup[]
+
+    @Column({ type: "json", name: 'model_revision' })
+    modelRevision: AModelRevision[]
 
 }
